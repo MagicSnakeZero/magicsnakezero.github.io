@@ -22,6 +22,20 @@
       </tags>
   </entry>
   <entry>
+    <title>hexo使用</title>
+    <url>/2020/04/08/hexo%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<h1 id="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"><a href="#hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。" class="headerlink" title="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"></a>hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。</h1><hr>
+<h2 id="标签显示异常"><a href="#标签显示异常" class="headerlink" title="标签显示异常"></a>标签显示异常</h2><p>如果tags：下面的标签不顶格，如下图，显示出来的标签就会变大，原因未知。<br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095641.png" alt="错误1"><br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095635.png" alt="错误演示"><br>顶格后恢复，奇怪的是接下来的标签就无所谓了，顶格也显示正常。<br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095627.png" alt="正确"><br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095620.png" alt="正确演示"></p>
+<hr>
+<h2 id="标题问题"><a href="#标题问题" class="headerlink" title="标题问题"></a>标题问题</h2><pre><code>#后面要加空格，emmm，原谅我是个新手。</code></pre><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/04/05/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -38,20 +52,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hexo使用</title>
-    <url>/2020/04/08/hexo%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<h1 id="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"><a href="#hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。" class="headerlink" title="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"></a>hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。</h1><hr>
-<h2 id="标签显示异常"><a href="#标签显示异常" class="headerlink" title="标签显示异常"></a>标签显示异常</h2><p>如果tags：下面的标签不顶格，如下图，显示出来的标签就会变大，原因未知。<br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095641.png" alt="错误1"><br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095635.png" alt="错误演示"><br>顶格后恢复，奇怪的是接下来的标签就无所谓了，顶格也显示正常。<br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095627.png" alt="正确"><br><img src="https://raw.githubusercontent.com/magicsnakezero/picturebed/master/img/20200408095620.png" alt="正确演示"></p>
-<hr>
-<h2 id="标题问题"><a href="#标题问题" class="headerlink" title="标题问题"></a>标题问题</h2><pre><code>#后面要加空格，emmm，原谅我是个新手。</code></pre><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
   </entry>
   <entry>
     <title>java对象和接口见解</title>
