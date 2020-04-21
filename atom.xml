@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://magicsnakezero.github.io/"/>
-  <updated>2020-04-21T01:51:47.558Z</updated>
+  <updated>2020-04-21T02:23:14.725Z</updated>
   <id>https://magicsnakezero.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://magicsnakezero.github.io/2020/04/17/java%E8%AF%BE%E7%A8%8B%E8%A1%A8/"/>
     <id>https://magicsnakezero.github.io/2020/04/17/java%E8%AF%BE%E7%A8%8B%E8%A1%A8/</id>
     <published>2020-04-17T00:47:00.000Z</published>
-    <updated>2020-04-21T01:51:47.558Z</updated>
+    <updated>2020-04-21T02:23:14.725Z</updated>
     
     <content type="html"><![CDATA[<h2 id="简单写一下java课程表，算是知识框架，逐步学习和完善。"><a href="#简单写一下java课程表，算是知识框架，逐步学习和完善。" class="headerlink" title="简单写一下java课程表，算是知识框架，逐步学习和完善。"></a>简单写一下java课程表，算是知识框架，逐步学习和完善。</h2><h4 id="一、java基础-高级"><a href="#一、java基础-高级" class="headerlink" title="一、java基础+高级"></a>一、java基础+高级</h4><ol><li>java基础语法</li><li>面向对象和封装</li><li>常用API</li><li>继承与多态</li><li>常用API</li><li>集合</li><li>异常与多线程</li><li>File类与IO流</li><li>网络编程</li><li>JDK8新特性</li><li>基础加强<h4 id="二、1-javaweb"><a href="#二、1-javaweb" class="headerlink" title="二、1.javaweb"></a>二、1.javaweb</h4></li><li>HTML与CSS</li><li>JavaScript</li><li>Bootstrap</li><li>XML</li><li>Tomcat</li><li>Servlet和http请求协议</li><li>Request和Response</li><li>Cookie和Session</li><li>JSP、EL和JSTL</li><li>综合案例（用户信息）</li><li>Filter和Listener</li><li>Jquery</li><li>Ajax和json</li><li>Redis</li><li>Maven基础</li><li>Linux和Nginx</li><li>（项目）黑马旅游网<h4 id="二、2-数据库基础"><a href="#二、2-数据库基础" class="headerlink" title="二、2.数据库基础"></a>二、2.数据库基础</h4></li><li>MySQL</li><li>JDBC<h4 id="三、1-Mybatis"><a href="#三、1-Mybatis" class="headerlink" title="三、1.Mybatis"></a>三、1.Mybatis</h4></li><li>Mybatis课程介绍及环境搭建</li><li>Mybatis入门案例</li><li>自定义Mybatis框架</li><li>自定义Mybatis框架基于注解开发</li><li>使用Mybatis框架基于注解开发</li><li>使用Mybatis完成DAO层开发</li><li>Mybatis的连接处及事务</li><li>动态SQL</li><li>Mybatis的多表操作</li><li>JNDI扩展知识</li><li>Mybatis的缓存</li><li>注解开发<h4 id="三、2-Spring"><a href="#三、2-Spring" class="headerlink" title="三、2.Spring"></a>三、2.Spring</h4></li><li>Spring框架简介</li><li>程序间耦合</li><li>Spring的IOC和DI</li><li>Spring的常用注解</li><li>基于XML的IOC案例</li><li>Spring的新注解</li><li>银行转账案例</li><li>面向切面编程AOP</li><li>JdbcTemplate的基本使用</li><li>SPring中事务控制<h4 id="三、3-SpringMVC"><a href="#三、3-SpringMVC" class="headerlink" title="三、3.SpringMVC"></a>三、3.SpringMVC</h4></li><li>SpringMVC概述及入门案例</li><li>参数绑定及自定义类型转换</li><li>SpringMVC常用注解</li><li>SpringMVC返回值类型及其响应数据类型</li><li>文件上传</li><li>异常处理及拦截器</li><li>SSM整合案例<h4 id="三、4-Oracle"><a href="#三、4-Oracle" class="headerlink" title="三、4.Oracle"></a>三、4.Oracle</h4></li><li>oracle体系结构</li><li>oracle的基本操作</li><li>oracle的查询</li><li>oracle对象</li><li>oracle编程<h4 id="三、-5-Maven高级"><a href="#三、-5-Maven高级" class="headerlink" title="三、 5.Maven高级"></a>三、 5.Maven高级</h4></li><li>maven分模块构建</li><li>私服<h4 id="三、6-项目-企业权限管理系统"><a href="#三、6-项目-企业权限管理系统" class="headerlink" title="三、6.项目 企业权限管理系统"></a>三、6.项目 企业权限管理系统</h4></li><li>AdminLte的基本介绍</li><li>SSM整合案例的基本介绍</li><li>产品操作</li><li>订单操作</li><li>用户操作</li><li>权限控制</li><li>权限关联与控制</li><li>AOP日志<h4 id="三、7-项目-ly商城"><a href="#三、7-项目-ly商城" class="headerlink" title="三、7.项目 ly商城"></a>三、7.项目 ly商城</h4></li><li>SpringBoot</li><li>SpringCloud</li><li>SpringCloud</li><li>ES6  Veu</li><li>项目环境搭建</li><li>nginx和品牌管理</li><li>品牌管理</li><li>商品表结构</li><li>商品功能实现</li><li>elasticsearch</li><li>全文搜索</li><li>搜索过滤</li><li>商品详情页</li><li>RabbitMQ</li><li>Redis</li><li>购物车</li><li>订单</li><li>支付<h4 id="四、1-Lucene"><a href="#四、1-Lucene" class="headerlink" title="四、1.Lucene"></a>四、1.Lucene</h4></li><li>全文检索基本介绍</li><li>lucene入门案例</li><li>中文分析器</li><li>索引库维护<h4 id="四、2-ElasticSearch-选学）"><a href="#四、2-ElasticSearch-选学）" class="headerlink" title="四、2.ElasticSearch(选学）"></a>四、2.ElasticSearch(选学）</h4></li><li>ElasticSearch基本介绍</li><li>ElasticSearch索引库维护</li><li>ElasticSearch集群</li><li>java客户端操作索引库</li><li>SpringDataElasticSearch<h4 id="四、3"><a href="#四、3" class="headerlink" title="四、3."></a>四、3.</h4><h3 id="以上观点仅代表个人观点。本人也是小白，有错误请指出。"><a href="#以上观点仅代表个人观点。本人也是小白，有错误请指出。" class="headerlink" title="以上观点仅代表个人观点。本人也是小白，有错误请指出。"></a>以上观点仅代表个人观点。本人也是小白，有错误请指出。</h3>不接受键盘侠的指点。不接受陌生人的指责，不接受其他行业高见。</li></ol>]]></content>
     
@@ -38,7 +38,9 @@
       <category term="java" scheme="https://magicsnakezero.github.io/categories/java/"/>
     
     
-      <category term="java - 流程表" scheme="https://magicsnakezero.github.io/tags/java-%E6%B5%81%E7%A8%8B%E8%A1%A8/"/>
+      <category term="java" scheme="https://magicsnakezero.github.io/tags/java/"/>
+    
+      <category term="流程表" scheme="https://magicsnakezero.github.io/tags/%E6%B5%81%E7%A8%8B%E8%A1%A8/"/>
     
   </entry>
   
@@ -47,7 +49,7 @@
     <link href="https://magicsnakezero.github.io/2020/04/09/java%E6%8E%A5%E5%8F%A3%E8%A7%81%E8%A7%A3/"/>
     <id>https://magicsnakezero.github.io/2020/04/09/java%E6%8E%A5%E5%8F%A3%E8%A7%81%E8%A7%A3/</id>
     <published>2020-04-09T00:47:00.000Z</published>
-    <updated>2020-04-21T01:51:52.800Z</updated>
+    <updated>2020-04-21T02:23:04.886Z</updated>
     
     <content type="html"><![CDATA[<p>&emsp;&emsp;学了一段时间java了，对接口的定义有所了解了，觉得java的对象和接口是一个大坑。所以发表一下个人看法。</p><hr><h3 id="类"><a href="#类" class="headerlink" title="类"></a>类</h3><p>首先是类，百度一下什么是类<br><code>类：类就是具备某些共同特征的实体的集合，它是一种抽象的数据类型，它是对所具有相同特征实体的抽象。</code><br>&emsp;&emsp;相信很多老师也是这么讲的，数据类型的抽象，就是类。然后就没有然后了。<br>&emsp;&emsp;这就是我踩的一个坑（可能也不算坑），老师介绍的什么是类，我也没有想什么是抽象。直到后来反思什么是类的时候，去百度了一下才明白。我原本以为抽象就是什么抽象画，抽象艺术派那种感觉，后来才明白我理解错了。<br><code>抽象：抽象是指从具体事物抽出、概括出它们共同的方面、本质属性与关系等，而将个别的、非本质的方面、属性与关系舍弃的思维过程。</code><br>&emsp;&emsp;用大白话表示就是，抽象就是取<strong>相同点</strong>归纳总结。瞬间醒悟。</p><h3 id="接口"><a href="#接口" class="headerlink" title="接口"></a>接口</h3><p>其次是接口，接口真是神坑<br>&emsp;&emsp;我至今不明白老师们为什么要用插座来举例。<br>&emsp;&emsp;我为了弄懂接口是什么，看过许多网课，老师一讲我就明白了，老师放张图，瞬间懵逼。不知道为什么所有的老师都喜欢把二孔插座，三孔插座的图片放上去。至今我不能理解他们所说的到底是什么意思，他们为什么要放插座。<br>&emsp;&emsp;这里我就发表一下我对接口的理解。</p><hr><p>&emsp;&emsp;接口，起到的作用类似于一张货物清单。<br>&emsp;&emsp;接口里只写各个成员的名字，继承了接口的，就相当于贴了一张清单，清单里有的，类里面必须有，怎么实现，接口不管，但必须要有。<br>&emsp;&emsp;调用相应的接口就类似于调用数学里面的x，x是多少，不知道，但是我知道有这么一个x，我现在要用。<br>&emsp;&emsp;举个例子：<br>接口：<br>&emsp;&emsp;猫，狗，鸟，狗，吃饭，喝水。<br>上层调用接口里面的猫，喝水。直接写名字调用。<br>下层实现接口只要都有就行，管你的是黑猫，白猫，红毛，橘猫，绿猫。调用动作也是，管你怎么喝，只要我有喝水的动作，就行。</p><hr><p>&emsp;&emsp;老师们讲的什么规范，标准，讲的太正规了。很容易就想到了班规，校规，法律法规，就跑偏了。。。</p><h3 id="以上观点仅代表个人观点。本人也是小白，有错误请指出。"><a href="#以上观点仅代表个人观点。本人也是小白，有错误请指出。" class="headerlink" title="以上观点仅代表个人观点。本人也是小白，有错误请指出。"></a>以上观点仅代表个人观点。本人也是小白，有错误请指出。</h3><p>不接受键盘侠的指点。不接受其他行业高见。</p>]]></content>
     
@@ -66,7 +68,11 @@
       <category term="java" scheme="https://magicsnakezero.github.io/categories/java/"/>
     
     
-      <category term="java - 类的对象 - 类的接口" scheme="https://magicsnakezero.github.io/tags/java-%E7%B1%BB%E7%9A%84%E5%AF%B9%E8%B1%A1-%E7%B1%BB%E7%9A%84%E6%8E%A5%E5%8F%A3/"/>
+      <category term="java" scheme="https://magicsnakezero.github.io/tags/java/"/>
+    
+      <category term="类的对象" scheme="https://magicsnakezero.github.io/tags/%E7%B1%BB%E7%9A%84%E5%AF%B9%E8%B1%A1/"/>
+    
+      <category term="类的接口" scheme="https://magicsnakezero.github.io/tags/%E7%B1%BB%E7%9A%84%E6%8E%A5%E5%8F%A3/"/>
     
   </entry>
   
