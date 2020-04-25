@@ -5,10 +5,38 @@
 <title>404-建设中</title>
 <link href="CSS/index.css" type="text/css" rel="stylesheet">
 <link href="" type="text/javascript" rel="stylesheet">
+<style>
+.cssshape {
+	width: 100px;
+	height: 55px;
+	background: #f335f7;
+	position: relative;
+	margin: 10px auto;}
+.cssshape:before{
+	content: "";
+	width: 0;
+	height: 0;
+	position: absolute;
+	top: -25px;
+	left: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 25px solid #f335f7;}
+.cssshape:after{
+	content: "";width: 0;
+	height: 0;
+	position: absolute;
+	bottom: -25px;
+	left: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 25px solid #f335f7;}
+</style>
 </head>
 
 <body>
-<div id='BackG' class="big" >
+<!--<div id='BackG' class="big" >-->
+<div id='cssshape' class="cssshape" >
 </div>
 </body>
 </html>
