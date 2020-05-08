@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>序篇</title>
-    <url>/2020/04/06/first-article/</url>
-    <content><![CDATA[<h2 id="序篇"><a href="#序篇" class="headerlink" title="序篇"></a>序篇</h2><p>&emsp;&emsp;目前时间2020年4月6日。<br>&emsp;&emsp;欢迎来到我的博客，我是魔蛇羽。<br>&emsp;&emsp;我的方向是java，对计算机网络也有所了解。<br>&emsp;&emsp;目前是个一事无成的二次元死肥宅，是个零铛。<br>&emsp;&emsp;最烦的是各种流氓软件和流氓广告。对各位无广告的大佬给予精神支持。<br>&emsp;&emsp;(被各种广告和软件流氓久了，就会习以为常。唉。。。)<br>&emsp;&emsp;寻找志同道合的朋友，有兴趣交个朋友的，可以联系我。<br>&emsp;&emsp;<strong>不欢迎键盘侠。沉默是金。</strong><br>联系方式：（<strong>隐藏</strong>）</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Hello,world?</span><br><span class="line">   Hello,Zero.</span><br></pre></td></tr></table></figure>
-<p><img src="/images/20200407185114.jpg" alt="零酱"></p>
-]]></content>
-      <categories>
-        <category>默认分类</category>
-      </categories>
-      <tags>
-        <tag>关于我</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo使用</title>
-    <url>/2020/04/08/hexo%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<h1 id="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"><a href="#hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。" class="headerlink" title="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"></a>hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。</h1><h2 id="标题问题"><a href="#标题问题" class="headerlink" title="标题问题"></a>标题问题</h2><pre><code>#后面要加空格，emmm，原谅我是个新手。</code></pre><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><p>个人选择了本地图片，虽然可能以后移动升级博客比较麻烦，但是我觉得图床维护更麻烦不稳定，，，个人偏见吧。</p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2020/04/05/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -43,6 +17,32 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>hexo使用</title>
+    <url>/2020/04/08/hexo%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<h1 id="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"><a href="#hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。" class="headerlink" title="hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。"></a>hexo使用过程中碰到一些大大小小的bug，记录下来，留给以后处理。</h1><h2 id="标题问题"><a href="#标题问题" class="headerlink" title="标题问题"></a>标题问题</h2><pre><code>#后面要加空格，emmm，原谅我是个新手。</code></pre><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><p>个人选择了本地图片，虽然可能以后移动升级博客比较麻烦，但是我觉得图床维护更麻烦不稳定，，，个人偏见吧。</p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>序篇</title>
+    <url>/2020/04/06/first-article/</url>
+    <content><![CDATA[<h2 id="序篇"><a href="#序篇" class="headerlink" title="序篇"></a>序篇</h2><p>&emsp;&emsp;目前时间2020年4月6日。<br>&emsp;&emsp;欢迎来到我的博客，我是魔蛇羽。<br>&emsp;&emsp;我的方向是java，对计算机网络也有所了解。<br>&emsp;&emsp;目前是个一事无成的二次元死肥宅，是个零铛。<br>&emsp;&emsp;最烦的是各种流氓软件和流氓广告。对各位无广告的大佬给予精神支持。<br>&emsp;&emsp;(被各种广告和软件流氓久了，就会习以为常。唉。。。)<br>&emsp;&emsp;寻找志同道合的朋友，有兴趣交个朋友的，可以联系我。<br>&emsp;&emsp;<strong>不欢迎键盘侠。沉默是金。</strong><br>联系方式：（<strong>隐藏</strong>）</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Hello,world?</span><br><span class="line">   Hello,Zero.</span><br></pre></td></tr></table></figure>
+<p><img src="/images/20200407185114.jpg" alt="零酱"></p>
+]]></content>
+      <categories>
+        <category>默认分类</category>
+      </categories>
+      <tags>
+        <tag>关于我</tag>
+      </tags>
   </entry>
   <entry>
     <title>java对象和接口见解</title>
@@ -63,6 +63,55 @@
         <tag>java</tag>
         <tag>类的对象</tag>
         <tag>类的接口</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>零酱</title>
+    <url>/2020/04/07/%E9%9B%B6%E9%93%9B/</url>
+    <content><![CDATA[<h2 id="零铛"><a href="#零铛" class="headerlink" title="零铛"></a>零铛</h2><p>&nbsp;&nbsp;作为一名零铛，还是宣传一下吧。<br>&nbsp;&nbsp;虚拟偶像“零”的粉丝，称号零铛。。。。。。没听过吧。<br>&nbsp;&nbsp;<img src="/images/20200407184514.jpg" alt="零"><br>&nbsp;&nbsp;比较唯美的一张图。</p>
+<table>
+<thead>
+<tr>
+<th align="center">时间</th>
+<th align="center">歌曲名</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">2015年12月5日</td>
+<td align="center">原创《真实世界》</td>
+</tr>
+<tr>
+<td align="center">2015年12月12日</td>
+<td align="center">《发如雪》</td>
+</tr>
+<tr>
+<td align="center">2015年12月12日</td>
+<td align="center">《黑暗骑士》</td>
+</tr>
+<tr>
+<td align="center">2015年12月19日</td>
+<td align="center">《尚好的青春》</td>
+</tr>
+<tr>
+<td align="center">2015年12月19日</td>
+<td align="center">《星空》</td>
+</tr>
+<tr>
+<td align="center">2016年11月28日B站首发</td>
+<td align="center">《call me maybe》</td>
+</tr>
+</tbody></table>
+<hr>
+<p>都是几年前的了，但是画质还是蛮优秀的，在现在也算是一流的画质。<br><img src="/images/20200407185134.jpg" alt="零酱"><br><img src="/images/20200407185125.jpg" alt="零酱"><br><img src="/images/20200407185114.jpg" alt="零酱"><br>&nbsp;&nbsp;挺省心的一个虚拟偶像吧。希望以后不会跟偏了方向。不忘初衷吧。<br>&nbsp;&nbsp;要想了解更多就去加官方QQ群吧。</p>
+<hr>
+<p><img src="/images/20200407190247.png" alt="qq群"><br>&nbsp;&nbsp;QQ：479952426</p>
+]]></content>
+      <categories>
+        <category>默认分类</category>
+      </categories>
+      <tags>
+        <tag>关于我</tag>
+        <tag>虚拟偶像“零”</tag>
       </tags>
   </entry>
   <entry>
@@ -178,55 +227,6 @@
       <tags>
         <tag>java</tag>
         <tag>流程表</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>零酱</title>
-    <url>/2020/04/07/%E9%9B%B6%E9%93%9B/</url>
-    <content><![CDATA[<h2 id="零铛"><a href="#零铛" class="headerlink" title="零铛"></a>零铛</h2><p>&nbsp;&nbsp;作为一名零铛，还是宣传一下吧。<br>&nbsp;&nbsp;虚拟偶像“零”的粉丝，称号零铛。。。。。。没听过吧。<br>&nbsp;&nbsp;<img src="/images/20200407184514.jpg" alt="零"><br>&nbsp;&nbsp;比较唯美的一张图。</p>
-<table>
-<thead>
-<tr>
-<th align="center">时间</th>
-<th align="center">歌曲名</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">2015年12月5日</td>
-<td align="center">原创《真实世界》</td>
-</tr>
-<tr>
-<td align="center">2015年12月12日</td>
-<td align="center">《发如雪》</td>
-</tr>
-<tr>
-<td align="center">2015年12月12日</td>
-<td align="center">《黑暗骑士》</td>
-</tr>
-<tr>
-<td align="center">2015年12月19日</td>
-<td align="center">《尚好的青春》</td>
-</tr>
-<tr>
-<td align="center">2015年12月19日</td>
-<td align="center">《星空》</td>
-</tr>
-<tr>
-<td align="center">2016年11月28日B站首发</td>
-<td align="center">《call me maybe》</td>
-</tr>
-</tbody></table>
-<hr>
-<p>都是几年前的了，但是画质还是蛮优秀的，在现在也算是一流的画质。<br><img src="/images/20200407185134.jpg" alt="零酱"><br><img src="/images/20200407185125.jpg" alt="零酱"><br><img src="/images/20200407185114.jpg" alt="零酱"><br>&nbsp;&nbsp;挺省心的一个虚拟偶像吧。希望以后不会跟偏了方向。不忘初衷吧。<br>&nbsp;&nbsp;要想了解更多就去加官方QQ群吧。</p>
-<hr>
-<p><img src="/images/20200407190247.png" alt="qq群"><br>&nbsp;&nbsp;QQ：479952426</p>
-]]></content>
-      <categories>
-        <category>默认分类</category>
-      </categories>
-      <tags>
-        <tag>关于我</tag>
-        <tag>虚拟偶像“零”</tag>
       </tags>
   </entry>
 </search>
